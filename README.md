@@ -1,0 +1,2 @@
+# StudentManageSystem
+just a homework
